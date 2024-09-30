@@ -22,7 +22,7 @@ Input: s = "()[]{}"
 Output: true
 Example 3:
 
-Input: s = "(]"
+Input: s = "()"
 Output: false
  
 
